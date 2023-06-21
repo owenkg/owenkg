@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenkg&label=Profile%20views&color=0e75b6&style=flat" alt="owenkg" /> </p>
 
-- 🔭 I’m currently working on [Dufuna Cohort 21](https://github.com/Dufuna-CodeCamp/Dufuna-CodeCamp-21) ,[Afriware](https://github.com/Afriware/AfriwareBusinessManager)
+- 🔭 I’m currently working on [Dufuna Cohort 21](https://github.com/Dufuna-CodeCamp/Dufuna-CodeCamp-21), [Afriware](https://github.com/Afriware/AfriwareBusinessManager)
 
 - 🌱 I’m currently learning **Typescript, NextJS, Oracle ADF, Kubernetes, GCP, AWS, Jenkins**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, NodeJS, Express, Flask, Django**
 
-- 📫 How to reach me **mcgeorgenozil@gmail.com**
+- 📫 How to reach me **mcgeorgenozil@gmail.com**, **owenkg1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
