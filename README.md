@@ -1,29 +1,62 @@
-<h1 align="center">Hi😌, I'm George Owen Kivumbi</h1>
-<h3 align="center">A passionate fullstack web developer with DevOps aspirations.</h3>
+# George Owen Kivumbi — SDET
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owenkg&label=Profile%20views&color=0e75b6&style=flat" alt="owenkg" /> </p>
+**Software Development Engineer in Test · Mbarara, Uganda (EAT / UTC+3)**
 
-- 🔭 I’m currently working on [Dufuna Cohort 21](https://github.com/Dufuna-CodeCamp/Dufuna-CodeCamp-21), [Afriware](https://github.com/Afriware/AfriwareBusinessManager)
+I build test automation infrastructure and quality systems for teams shipping software that matters across East Africa. Currently working as SDET at **Raising The Village** — a 100-person NGO field platform serving Uganda, Tanzania, and Rwanda — where I own the QA programme end-to-end: 1,200+ automated tests, 4 CI/CD pipelines, UAT facilitation, and release quality gates across web, mobile, and API layers.
 
-- 🌱 I’m currently learning **Typescript, NextJS, Oracle ADF, Kubernetes, GCP, AWS, Jenkins**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/owenkg](https://github.com/owenkg)
+## What I'm working on
 
-- 💬 Ask me about **React, NodeJS, Express, Flask, Django**
+- **RTV QA Infrastructure** — 10-sprint delivery cadence, PHP/TypeScript/Dart automated tests, sprint-based release pipeline with go/no-go sign-offs
+- **[Spenditure](https://github.com/owenkg/spenditure)** — Personal finance PWA (Remix + NestJS + SQLite) with DFCU/MoMo import and monthly reconciliation
+- **[Portfolio](https://owenkg.github.io/portfolio)** — Live at owenkg.github.io/portfolio
 
-- 📫 How to reach me **mcgeorgenozil@gmail.com**, **owenkg1@outlook.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## Core stack
+
+**Test Automation:** Cypress · Jest · PHPUnit · Patrol (Flutter E2E) · Mockito (Dart) · Selenium · Postman  
+**CI/CD & Quality Gates:** GitHub Actions · Trivy · Qodana · Shorebird OTA · Branch protection · PDF/Slack reporting  
+**Static Analysis:** JetBrains Qodana · ESLint · Dart Analyzer · TypeScript strict  
+**Performance:** Grafana K6 · Firebase Test Lab · Charles Proxy · Sentry · Flutter DevTools  
+**Languages:** TypeScript · PHP (Laravel) · Python · Dart (Flutter) · JavaScript  
+**Backend:** Node.js (NestJS/Express) · Django · Flask · .NET  
+**Databases:** PostgreSQL · MySQL · MongoDB · SQLite · Prisma  
+
+---
+
+## Selected projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **RTV QA Infrastructure** | QA automation for a 5-system NGO field platform — 1,200+ tests, 4 CI/CD pipelines, NFR suites, 10-sprint cadence | Cypress · PHPUnit · GitHub Actions |
+| **[Spenditure](https://github.com/owenkg/spenditure)** | Finance PWA with DFCU/MoMo import, monthly reconciliation (±5 days/5% duplicate detection), cron audit | Remix · NestJS · SQLite |
+| **AgriPredict** | React Native app + Flask backend for real-time market price predictions for smallholder farmers | React Native · Flask · Python |
+| **BaseGuard** | Tiered security management system with real-time location tracking and payroll automation | Docker · Django · GCP |
+| **FraudIT** | Fraud monitoring and transaction flagging system for financial service providers | React · Django |
+| **[MADS](https://github.com/owenkg/mads)** | Official site for a Kampala music events series — RSVP queue with XSS-hardened inputs | TypeScript · Netlify Functions |
+
+---
+
+## Background
+
+5+ years across full-stack development and quality engineering. Before specialising in QA, I built financial, healthcare, and security systems at Nugsoft Technologies, Mara Scientific, Afriware, and Sail Global Corporation.
+
+Authored RTV's **Software Testing Guidelines v1.0** (Oct 2025) — adopted as the official QA reference across all engineering roles. Designed the QA engineer hiring framework. Co-authored a formal CI/CD Strategy Report submitted to Product & PM leadership.
+
+---
+
+## Contact
+
+📧 owenkg1@outlook.com  
+🌐 [owenkg.github.io/portfolio](https://owenkg.github.io/portfolio)  
+💼 [linkedin.com/in/george-owen-kivumbi-17985616b](https://www.linkedin.com/in/george-owen-kivumbi-17985616b/)
+
+---
+
 <p align="left">
-<a href="https://dev.to/owenkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="owenkg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/george-owen-kivumbi-17985616b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/george-owen-kivumbi-17985616b/" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owenkg&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=owenkg&show_icons=true&locale=en&theme=default" alt="GitHub stats" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owenkg&show_icons=true&locale=en&layout=compact" alt="owenkg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owenkg&show_icons=true&locale=en" alt="owenkg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owenkg&" alt="owenkg" /></p>
